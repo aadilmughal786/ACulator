@@ -1,5 +1,5 @@
 # ACulator
-## A Calculator that can do more
+## A Simple Calculator that can do more
 ![ACulator pic 1](img/1.png)
 ## Default built-in variable
 ![ACulator pic 1](img/2.png)
