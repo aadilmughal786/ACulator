@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# ACulator
+## A Simple Calculator that can do more
+![ACulator pic 1](img/1.png)
+## Default built-in variable
+![ACulator pic 1](img/2.png)
+![ACulator pic 1](img/3.png)
+key words | value
+------------ | -------------
+devloper | show the devloper name
+version | show the current version of ACulator
+## You can also use all function or variable of python's math module
+![ACulator pic 1](img/4.png)
+### some useful math variable
+* e
+* pi
+### some useful math function
+* ceil(x)
+* comb(n,k)
+* copysign(x,y)
+* factorial(x)
+* floor(x)
+* fabs(x)
+* gcd(*integers)
+* lcm(*integers)
+* remainder(x, y)
+* exp(x)
+* sqrt(x)
 
-You can use the [editor on GitHub](https://github.com/aadilmughal786/ACulator-Tkinter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aadilmughal786/ACulator-Tkinter/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### U can check python's documentation [math](https://docs.python.org/3/library/math.html)
+## Support of many useful built-in functions
+![ACulator pic 1](img/5.png)
+## Also user can add or define their own variables,functions or even objects
+![ACulator pic 1](img/6.png)
