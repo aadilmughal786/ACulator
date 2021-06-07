@@ -1,4 +1,9 @@
 # ACulator
+![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
+![](https://img.shields.io/badge/Tool_Used-Tkinter-orange.svg)
+![](https://img.shields.io/badge/Python_Version-3.9.5-blue.svg)
+![](https://img.shields.io/badge/Status-Complete-green.svg)
+
 ## A Simple Calculator that can do more
 ![ACulator pic 1](img/1.png)
 ## Default built-in variable
