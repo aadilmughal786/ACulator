@@ -36,3 +36,9 @@ version | show the current version of ACulator
 ![ACulator pic 1](img/5.png)
 ## Also user can add or define their own variables,functions or even objects
 ![ACulator pic 1](img/6.png)
+
+#A Little calculator with random color feature
+![little pic 1](img/l1.png)
+![little pic 2](img/l2.png)
+![little pic 3](img/l3.png)
+
